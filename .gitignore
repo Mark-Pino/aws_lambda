@@ -18,6 +18,7 @@ terraform.tfvars
 .venv/
 env/
 venv/
+upload_file.py
 
 # .DS_Store
 # Thumbs.db
