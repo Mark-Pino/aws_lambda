@@ -1,0 +1,28 @@
+__pycache__/
+function.zip
+*.pyc
+*.pyo
+*.pyd
+
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfvars
+*.pem
+*.zip
+
+.vscode/
+.idea/
+
+.env
+.venv/
+env/
+venv/
+
+# .DS_Store
+# Thumbs.db
+
+# *.log
+# *.bak
+
+# known_hosts
